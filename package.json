@@ -1,0 +1,16 @@
+{
+  "name": "crypto-signals-bot",
+  "version": "1.0.0",
+  "description": "Bot de senales crypto con suscripciones en Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
